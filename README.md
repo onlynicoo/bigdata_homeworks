@@ -1,2 +1,3 @@
 # bigdata_homeworks
-Academic Project about BigData field
+Homework one: solved with MapReduce in Spark the problem of counting triangles in a graph.
+Homework two: todo...
