@@ -1,3 +1,3 @@
 # bigdata_homeworks
-Homework one: solved with MapReduce in Spark the problem of counting triangles in a graph.
+Homework one: solved with MapReduce in Spark the problem of counting triangles in a graph.\\
 Homework two: todo...
