@@ -16,3 +16,6 @@ To call the function it's enough to type:
 # Graph format
 The graph is saved in a *.txt file 
 Each entry of the file reppresent the end point of an edge
+
+# Results
+The obtained result are in table.docx
